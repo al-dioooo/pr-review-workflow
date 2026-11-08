@@ -1,0 +1,13 @@
+{
+  "name": "pr-review-workflow",
+  "version": "0.1.0",
+  "description": "An issue-first, trunk-based PR and code review SOP, plus a local-orchestrator / remote-SSH-worker workflow, as Claude Code skills.",
+  "author": {
+    "name": "al-dioooo",
+    "url": "https://github.com/al-dioooo"
+  },
+  "homepage": "https://github.com/al-dioooo/pr-review-workflow",
+  "repository": "https://github.com/al-dioooo/pr-review-workflow",
+  "license": "Apache-2.0",
+  "keywords": ["pull-request", "code-review", "conventional-commits", "trunk-based", "ssh", "orchestration"]
+}

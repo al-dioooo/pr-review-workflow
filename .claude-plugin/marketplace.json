@@ -1,0 +1,23 @@
+{
+  "name": "pr-review-workflow",
+  "owner": {
+    "name": "al-dioooo",
+    "url": "https://github.com/al-dioooo"
+  },
+  "metadata": {
+    "description": "Claude Code skills for an issue-first, trunk-based PR and code review workflow.",
+    "version": "0.1.0"
+  },
+  "plugins": [
+    {
+      "name": "pr-review-workflow",
+      "source": "./plugins/pr-review-workflow",
+      "description": "An issue-first, trunk-based PR and code review SOP, plus a local-orchestrator / remote-SSH-worker workflow.",
+      "version": "0.1.0",
+      "author": {
+        "name": "al-dioooo",
+        "url": "https://github.com/al-dioooo"
+      }
+    }
+  ]
+}
